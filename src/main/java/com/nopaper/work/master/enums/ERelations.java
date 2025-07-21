@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package com.nopaper.work.master.enums;
+
+/**
+ * 
+ */
+public enum ERelations {
+
+	SELF, FATHER, MOTHER, LEGAL_GUARDIAN, GRAND_FATHER, GRAND_MOTHER, UNCLE, AUNTY, SISTER, BROTHER, GUARDIAN, FRIEND, NIECE,
+	NEPHEW, SON, DAUGHTER, GRAND_SON, GRAND_DAUGHTER, COUSIN, OTHERS
+
+}
